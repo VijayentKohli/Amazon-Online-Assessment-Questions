@@ -33,8 +33,6 @@ public class ShopkeeperSale {
 				minArr[i]=min;
 				cost += A[i]-min;
 			}
-			
-			
 		}
 		
 		return cost;
